@@ -1,0 +1,31 @@
+📊 Projeto Power BI - Sales Report
+Este dashboard foi desenvolvido com o objetivo de analisar dados de vendas de forma dinâmica, visual e interativa, utilizando Power BI Desktop. A solução apresenta uma interface moderna, com navegação por botões e páginas temáticas, proporcionando uma experiência amigável e eficiente para o usuário.
+
+🎯 Objetivos do Projeto
+Apresentar uma visão consolidada dos indicadores-chave de vendas.
+Permitir a análise detalhada por período, produto, segmento e país.
+Explorar recursos visuais avançados do Power BI, como dispersão com animação, histogramas e treemaps.
+Simular um painel executivo com múltiplas páginas e navegação intuitiva.
+
+🧭 Funcionalidades Implementadas
+Navegação por Botões: Todas as páginas possuem botões funcionais que permitem navegar entre as seções Home, Principal, Detalhes, TOP N e Data Analytics de forma fluida, como um sistema completo.
+Página Principal:
+KPI Cards com métricas como Total de Vendas, Unidades Vendidas, Descontos e CPV.
+Gráfico de linha com áreas para visualização de vendas por mês.
+Gráficos de barras e pizza para análise por segmento, produto e país.
+Página de Detalhes:
+Visualização mensal e por trimestre dos dados.
+Histograma de Unidades Vendidas.
+Gráficos temáticos com análise comparativa de produtos.
+TOP N:
+Visualização do TOP 3 de produtos por país.
+Gráfico de dispersão com eixo de reprodução por mês (Play Axis).
+Barras dinâmicas com destaque dos produtos mais vendidos.
+Data Analytics:
+Linha de tendência (regressão linear) entre unidades vendidas e vendas.
+Gráfico de barras com os 5 meses de maior volume.
+Visão do máximo vendido por segmento e por país.
+Histograma e comparação de unidades vendidas por produto.
+
+🎨 Estética
+O design foi customizado com cores vibrantes, ícones personalizados e fontes padronizadas para garantir legibilidade e apelo visual. Utiliza um layout tipo app, com menu lateral e navegação por abas.
