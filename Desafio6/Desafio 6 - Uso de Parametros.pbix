@@ -1,0 +1,27 @@
+📊 Sales Report - Desafio Power BI
+
+🧩 Problema
+Empresas que operam em múltiplos países frequentemente enfrentam dificuldades para consolidar e visualizar os dados de vendas de forma clara, segmentada e estratégica. A falta de um painel interativo e centralizado dificulta a tomada de decisões assertivas, especialmente quando se trata de comparar o desempenho por país, produto, segmento ou período.
+
+💡 Solução
+Este dashboard interativo foi desenvolvido com Power BI e tem como foco a visualização das vendas por país, permitindo também a filtragem por diversos parâmetros como produto, segmento, mês, continente e semestre. Com visual moderno, cores contrastantes e usabilidade clara, o relatório fornece insights instantâneos sobre os principais mercados da empresa.
+
+🎯 Objetivos do Painel
+Fornecer uma visão comparativa de vendas entre diferentes países.
+
+Permitir análise por múltiplas dimensões com filtros customizáveis.
+
+Apresentar os dados de forma visualmente atrativa e de fácil interpretação.
+
+Servir como base para a tomada de decisão estratégica nas áreas comerciais e de planejamento.
+
+🛠️ Recursos Utilizados
+Power BI Desktop
+
+Gráfico de barras horizontais para análise por país
+
+Painel de segmentação com múltiplos filtros
+
+Design visual com tema escuro e elementos personalizados
+
+Ícones e cores para reforçar a estética e usabilidade
